@@ -1,0 +1,132 @@
+@charset "utf-8";
+body { background:url(/system32/images/fnd-site/1x220/png/fnd.png) #FFFFFF repeat-x; height:220px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#352d23; margin:0px; }
+#BodyTemplateSiteWeb { width:830px; margin:0 auto; }
+#BodyMiseEnPage { clear:both; }
+a { color:#76ba13; text-decoration:none; }
+a:hover { text-decoration:underline; }
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+a:active {
+text-decoration: none;
+}
+#BodyHeaderSiteWeb  { width:830px; height:208px; }
+#BodyHeaderSiteWeb a.LogoSiteWeb { background:url(/system32/images/fnd-site/243x48/png/fnd.png) no-repeat; width:243px; height:48px; display:block; margin-top:40px; float:left; }
+#BodyHeaderSiteWeb input.ApplicationSearchSiteWeb { background:url(/system32/images/fnd-site/345x31/png/fnd.png) no-repeat; width:304px; height:31px; float:right; margin:50px 0 0 0; border:none; outline:none; color:#352d23; font-size:11px; padding:0 5px; line-height:31px;}
+#BodyHeaderSiteWeb input.FormulaireSearchSiteWeb { background:url(/system32/images/fnd-site/345x31/png/fnd.png) no-repeat; background-position:-314px 0px; width:31px; height:31px; border:none; float:right; margin:50px 0 0 0; cursor:pointer; }
+ul.MenuSiteWeb { width:832px; margin:47px 0 0 0; padding:0px; }
+ul.MenuSiteWeb li { float:left; list-style:none; margin:0 38px 0 0; }
+ul.MenuSiteWeb li.BodyEnd { margin-right:0px; }
+ul.MenuSiteWeb li a { background:url(/system32/images/fnd-site/107x64/png/fnd.png) no-repeat; width:107px; height:32px; display:inline-block; text-align:center; color:#FFFFFF; text-decoration:none; line-height:32px; text-shadow:1px 1px #2e261e; }
+ul.MenuSiteWeb li a:hover { background-position:0px -32px; text-shadow:1px 1px #577a27;}
+ul.MenuSiteWeb li a.select { background-position:0px -32px; text-shadow:1px 1px #577a27;}
+#MenuGaucheSiteWeb { width:165px; float:left; margin:0 33px 0 0; }
+#MenuGaucheSiteWeb h2 { background:url(/system32/images/fnd-site/163x26/png/fnd.png) no-repeat; width:163px; height:26px; text-align:center; line-height:26px; color:#FFFFFF; font-weight:normal; font-size:12px; margin:20px 0 10px 0; padding:0px; text-shadow:1px 1px #2e261e; }
+#MenuGaucheSiteWeb h2.BodyFirstContent { margin-top:0px; }
+#MenuGaucheSiteWeb h3 { background:url(/system32/images/fnd-site/163x26/png/fnd.png) no-repeat; width:163px; height:26px; text-align:center; line-height:26px; color:#FFFFFF; font-weight:normal; font-size:12px; margin:20px 0 10px 0; padding:0px; text-shadow:1px 1px #2e261e; }
+#MenuGaucheSiteWeb h3.BodyFirstContent { margin-top:0px; }
+#MenuGaucheSiteWeb h4 { background:url(/system32/images/fnd-site/163x26/png/fnd.png) no-repeat; width:163px; height:26px; text-align:center; line-height:26px; color:#FFFFFF; font-weight:normal; font-size:12px; margin:20px 0 10px 0; padding:0px; text-shadow:1px 1px #2e261e; }
+#MenuGaucheSiteWeb h4.BodyFirstContent { margin-top:0px; }
+#MenuGaucheSiteWeb h5 { background:url(/system32/images/fnd-site/163x26/png/fnd.png) no-repeat; width:163px; height:26px; text-align:center; line-height:26px; color:#FFFFFF; font-weight:normal; font-size:12px; margin:20px 0 10px 0; padding:0px; text-shadow:1px 1px #2e261e; }
+#MenuGaucheSiteWeb h5.BodyFirstContent { margin-top:0px; }
+#MenuGaucheSiteWeb h6 { background:url(/system32/images/fnd-site/163x26/png/fnd.png) no-repeat; width:163px; height:26px; text-align:center; line-height:26px; color:#FFFFFF; font-weight:normal; font-size:12px; margin:20px 0 10px 0; padding:0px; text-shadow:1px 1px #2e261e; }
+#MenuGaucheSiteWeb h6.BodyFirstContent { margin-top:0px; }
+#MenuGaucheSiteWeb ul { width:165px; margin:0 0 0 0; padding:0px; }
+#MenuGaucheSiteWeb ul li { list-style:url(/system32/images/pictos/9x9/png/picto.png) inside; border-bottom:1px dashed #999; padding:4px 0; }
+#MenuGaucheSiteWeb ul li:hover { list-style:url(/system32/images/pictos/9x9/png/picto-0.png) inside; }
+#MenuGaucheSiteWeb ul li a { color:#352d23; }
+#MenuGaucheSiteWeb ul li a:hover { color:#76ba13; text-decoration:none; }
+#MenuGaucheSiteWeb ul.ReseauxSociaux li { list-style:none; }
+#MenuGaucheSiteWeb input.ApplicationNewsletters { background:url(/system32/images/fnd-site/161x24/png/fnd.png) no-repeat; width:117px; height:25px; border:none; outline:none; color:#352d23; font-size:11px; padding:0 5px; margin:0 0 5px 0; line-height:24px;}
+#MenuGaucheSiteWeb input.FormulaireApplicationNewsletters { background:url(/system32/images/fnd-site/161x24/png/fnd.png) no-repeat; background-position:-128px 0px; width:33px; height:24px; cursor:pointer; border:none; margin:0 0 0 -3px;}
+#MenuGaucheSiteWeb span.ApplicationNewsletters { font-size:11px; }
+#MenuGaucheSiteWeb span.ApplicationNewsletters input { margin-top:0px; position:absolute;}
+#BodyContent { width:630px; float:right; }
+#BodyContent h1.type1 { margin-top:20px; }
+#BodyContent h1 { background:url(/system32/images/fnd-site/584x26/png/fnd.png) no-repeat; width:570px; height:26px; margin:50px auto 20px auto; padding:0px; color:#FFFFFF; text-align:left; line-height:26px; font-weight:normal; text-shadow:1px 1px #2e261e; font-size:12px; padding:0 7px; }
+#BodyContent h1.BodyFirstContent { margin-top:0px; }
+#BodyContent h1 small { float:right; }
+#BodyContent BodyCategoriePresentationSiteWeb.BodySiteWebCategorie {
+background: url(/system32/images/fnd-site/584x26/png/fnd.png) no-repeat;
+width: 570px;
+height: 26px;
+margin: 50px auto 20px auto;
+padding: 0px;
+color: #FFFFFF;
+text-align: left;
+line-height: 26px;
+font-weight: normal;
+text-shadow: 1px 1px #2e261e;
+font-size: 12px;
+padding: 0 7px;
+}
+BodyCategoriePresentationSiteWeb {
+display: block;
+font-size: 2em;
+margin-block-start: 0.67em;
+margin-block-end: 0.67em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+}
+#BodyContent BodyContentPresentation.BodyContentPresentationUser {
+background: url(/system32/images/fnd-site/584x26/png/fnd.png) no-repeat;
+width: 570px;
+height: 26px;
+margin: 50px auto 20px auto;
+padding: 0px;
+color: #FFFFFF;
+text-align: left;
+line-height: 26px;
+font-weight: normal;
+text-shadow: 1px 1px #2e261e;
+font-size: 12px;
+padding: 0 7px;
+}
+BodyContentPresentation {
+display: block;
+font-size: 2em;
+margin-block-start: 0.67em;
+margin-block-end: 0.67em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+}
+#BodyTutoSiteWeb { width:162px; height:193px; float:left; margin:20px 40px 20px 40px; }
+#BodyTutoSiteWeb.BodyEnd { margin-right:0px; }
+#BodyTutoSiteWeb img { border:4px solid #e6e6e6; width:150px; margin:0 0 7px 2px; }
+#BodyTutoSiteWeb a.LinksTutoSiteWeb { background:url(/system32/images/fnd-site/161x48/png/fnd.png) no-repeat; width:161px; height:24px; display:block; color:#FFFFFF; text-decoration:none;  text-shadow:1px 1px #2e261e; text-align:center; line-height:24px; }
+#BodyTutoSiteWeb a.LinksTutoSiteWeb:hover { background-position:0px -24px; text-shadow:1px 1px #577a27;}
+p.suite { float:left; margin:0 0 0 0; }
+p.suite a { color:#352d23; text-decoration:none; font-size:11px; }
+p.comment { float:right; margin:0 0 0 0; }
+p.comment a { color:#352d23; text-decoration:none; font-size:11px; }
+img.blog { border:4px solid #d7d7d7; }
+P.tag { color:#818181; }
+#PaginationPageWeb {width:630px; text-align:center; height:28px; margin:40px 0 20px 0; }
+#PaginationPageWeb a.GestionPagePagination { background:url(/system32/images/fnd-site/114x56/png/fnd.png) no-repeat; width:114px; height:28px; display:inline-block; margin:0 0 0 0; text-align:center; line-height:28px; color:#FFFFFF; text-shadow:1px 1px #2e261e; }
+#PaginationPageWeb a.GestionPagePagination:hover { background-position:0px -28px; text-shadow:1px 1px #577a27; text-decoration:none;}
+#PaginationPageWeb a.nbr { background:url(/system32/images/fnd-site/28x56/png/fnd.png) no-repeat; width:28px; height:28px; display:inline-block; margin:0 0 0 0; text-align:center; line-height:28px; color:#FFFFFF; text-shadow:1px 1px #2e261e; }
+#PaginationPageWeb a.nbr:hover { background-position:0px -28px; text-shadow:1px 1px #577a27; text-decoration:none;}
+#PaginationPageWeb a#GestionPageActive { background-position:0px -28px; text-shadow:1px 1px #577a27; text-decoration:none;}
+#PaginationPageWeb {clear: both;}
+p.contact { margin:10px 0 10px 20px; }
+input.ChampFormulaireCompteMembre { background:url(/system32/images/fnd-site/283x28/png/fnd.png) no-repeat; width:273px; height:28px; border:none; outline:none; padding:0 5px; color:#352d23; font-size:11px; }
+input.form2 { background:url(images/input2.png) no-repeat; width:453px; height:28px; border:none; outline:none; padding:0 5px; color:#352d23; font-size:11px; }
+textarea.FormulaireTexteMembre { background:url(/system32/images/fnd-site/590x245/png/fnd.png) no-repeat; width:570px; height:225px; padding:10px; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#352d23; outline:none; border:none; }
+input.FormulaireValidationMembre { background:url(/system32/images/fnd-site/133x30/png/fnd.png) no-repeat; width:133px; height:30px; line-height:30px; text-align:center; color:#FFFFFF; border:none; text-shadow:1px 1px #577a27; cursor:pointer; }
+#commentaire { background:url(images/commentaire.png) no-repeat; width:619px; height:113px; margin:0 0 0 0; padding-right:10px; }
+#commentaire a img { margin:15px 10px 0 15px; float:left; }
+p.auteur { font-weight:bold; padding-top:15px; color:#373737;}
+p.comment-infos { color:#aaaaaa;  padding-bottom:5px;}
+#FooterSiteWeb { background:url(/system32/images/fnd-site/3x106/png/fnd.png) repeat-x; height:106px; margin:50px 0 0 0; font-size:11px; }
+#FooterSiteWeb #FooterSiteWebTexte { width:830px; margin:20px auto 0 auto; }
+#FooterSiteWeb #FooterSiteWebTexte a { color:#a39174; text-decoration:none; }
+#FooterSiteWeb #FooterSiteWebTexte p.FooterSiteWebTexteGauche { float:left; width:430px; background:url(/system32/images/pictos/2x2/png/picto.png) repeat-y right; padding:10px 0 10px 0; color:#716348; margin-top:25px; }
+#FooterSiteWeb #FooterSiteWebTexte p.FooterSiteWebTexteDroite { float:right; width:350px; margin-top:25px; padding:10px 0 10px 0; color:#716348; }

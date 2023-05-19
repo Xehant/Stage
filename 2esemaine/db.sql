@@ -1,0 +1,19 @@
+DROP DATABASE IF EXISTS Webmasters;
+CREATE DATABASE Webmasters;
+
+use Webmasters;
+DROP TABLE IF EXISTS Annuaire;
+CREATE TABLE Annuaire(ID INT,Budgetprojet VARCHAR(30), TitreProjet VARCHAR(50),DateCreationProjet VARCHAR (2083),
+ DescriptionProjet VARCHAR(200));
+
+
+ALTER TABLE Annuaire
+MODIFY ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
+
+
+use Webmasters;
+DROP TABLE IF EXISTS Partenaire;
+CREATE TABLE Partenaire (ID INT, User VARCHAR (30), Classement VARCHAR (10), TarifProjet VARCHAR(10));
+
+ALTER TABLE Partenaire
+MODIFY ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
